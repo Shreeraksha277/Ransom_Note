@@ -1,5 +1,5 @@
 class Solution {
-    public boolean  canConstruct(String ransomNote, String magazine) {
+    public  boolean  canConstruct(String ransomNote, String magazine) {
 
         int[] count =  new int[26]; // for letters a–z
 
